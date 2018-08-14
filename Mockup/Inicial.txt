@@ -1,0 +1,2 @@
+Se realiza un prototipo basico sobre la aplicacion a realiza, llamada ReciclAPP Bogota. La cual permitira crear una plataforma social para dar a conocer quien y cuando se puede 
+pasar a recoger el reciclaje de una persona, genrando un impacto ecologico.
