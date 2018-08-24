@@ -1,2 +1,22 @@
-Se realiza un prototipo basico sobre la aplicacion a realiza, llamada ReciclAPP Bogota, ReciclaCo, ReciCol, BogotaRecicla . La cual permitira crear una plataforma social para dar a conocer quien y cuando se puede 
-pasar a recoger el reciclaje de una persona, genrando un impacto ecologico.
+Se realiza un prototipo basico sobre la aplicacion a realizar, llamada ReciclAPP Bogota, ReciclaCo, ReciCol, BogotaRecicla . La cual permitira crear una plataforma social para dar a conocer quien y cuando se puede pasar a recoger el reciclaje de una persona, generando un impacto ecologico.
+
+Nombres tentativos:
+- Reciclacol
+- ReciclaCo
+- Colrecicla
+- ReciCol
+- BogotáRecicla
+
+El Mockup se realizará tanto para página web y aplicación celular.
+
+La aplicación tendrá dos usuarios
+- Recicladores: Personas que recogen el material reciclable
+- Personas que van a desechar el material reciclable (Nombre por definir; colaboradores verdes? algo asi jejej)
+
+Pantallas
+- Login (usuario y contraseña) -> registro
+- mensaje de confirmación donde se le da la bienvenidad a los usuarios y se obtiene información más personalizada
+  Ej: con qué tipo de material desea participar, ubicación (definir zonas), en el caso de los recicladores se pregunta qué están dispuestos a aportar.
+ - Tablas de puntos (formas de obtener los puntos y premios a los que equivalen dichos puntos, por tantas botellas de vidrio, x puntos, por tanto de papel, y puntos, etc)
+ - El ususario particular puede ver los perfiles de los recicladores, ofrece lo que va a entregar, los recicladores aplican para irlo a recoger y el usuario selecciona quien puede ir a recoger
+ - calificación de recicladores con estrellas 
